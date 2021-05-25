@@ -1,0 +1,21 @@
+* {
+  background-color: #f5f5dd;
+  color: white;
+  text-align: center;
+}
+div {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+
+  margin: 10px;
+}
+.halfPlusColor {
+  opacity: 0.75;
+}
+.halfColor {
+  opacity: 0.5;
+}
+.halfMinusColor {
+  opacity: 0.25;
+}
